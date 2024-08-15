@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "hN4o8TCtYxzQfrtjG53XF44b3PSzM7RGBTf1PtAWI2U=",
+  "Source": "WeatherAppWithPartialView",
+  "BasePath": "_content/WeatherAppWithPartialView",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppWithPartialView\\wwwroot",
+      "Source": "WeatherAppWithPartialView",
+      "ContentRoot": "C:\\AspNetCore\\WeatherAppWithPartialView\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithPartialView",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\AspNetCore\\WeatherAppWithPartialView\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherAppWithPartialView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\AspNetCore\\WeatherAppWithPartialView\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithPartialView",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

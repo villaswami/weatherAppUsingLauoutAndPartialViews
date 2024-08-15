@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\AspNetCore\\WeatherAppWithPartialView\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WeatherAppWithPartialView.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WeatherAppWithPartialView.props",
+      "PackagePath": "build\\WeatherAppWithPartialView.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WeatherAppWithPartialView.props",
+      "PackagePath": "buildMultiTargeting\\WeatherAppWithPartialView.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WeatherAppWithPartialView.props",
+      "PackagePath": "buildTransitive\\WeatherAppWithPartialView.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
